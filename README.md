@@ -12,7 +12,7 @@ randomized case files before the Men in Black catch up to you.
 Built with React + Vite + TypeScript and react-three-fiber. Two Vercel Edge
 Functions handle the LLM proxy and the war.gov asset proxy — no separate
 backend.
-
+ 
 ## Stack
 
 - **Vite + React 19 + TypeScript** for the UI
